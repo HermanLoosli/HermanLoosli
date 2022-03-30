@@ -29,4 +29,10 @@
   <a href = "mailto:hermanl.webdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/herman-loosli-1b90a6175" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/hermanloosli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ </div>
+ 
+  ##
+ 
+<div align="center"> 
+ <img align="center" alt="Herman-Perfil" height="200" width="200" src="https://user-images.githubusercontent.com/97617947/160930342-57dbbc06-09ce-453f-aa55-9907ffd079d7.jpg">
 </div>
