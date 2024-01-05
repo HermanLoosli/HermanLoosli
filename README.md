@@ -3,7 +3,7 @@
  <h3> About me: </h3>
   <p> •Full Stack Web Developer💻 </p>
   <p> •Graduated at Le Wagon São Paulo🎓 </p>
-  <p> •21 years old📅 </p>
+  <p> •22 years old📅 </p>
 </div>
 
   ##
